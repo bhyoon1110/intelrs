@@ -1,0 +1,4 @@
+src/depth_pro/checkpoints/depth_pro.pt
+*.pt
+*.pyc
+__pycache__/
